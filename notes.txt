@@ -1,3 +1,30 @@
 This is a series of Notes for NLP - Natural Language Processing
-    - The noes will be based on a series of courses from Udemy, Coursera etc
+    - The notes will be based on a series of courses from Udemy, Coursera etc
 There will be multiple projects covering different parts of NLP
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+                                                    NLP FOR TEXT SUMMARIZATION
+--------------------------------------------------------------------------------------------------------------------------------------------------
+Introduction
+    - There are multiple areas that NLP is used in
+    - Speech transcription, Chatbot, Sentiment Analysis, Video and Image Captioning
+    - Anoth application is NMT or Neural Machine Translation where text is translated into different languages
+
+Frequency Based Algorithm
+    - Plan of Attack
+        - Start with intuition and step by step calculations
+        - Use a step by step implementation in Python
+        - Then generating summaries using internet articles
+    - Text Summarization
+        - There are 7 steps to text summarisation
+            - Preprocess the text, find word frequency, find the weighted word summary
+            - Tokenise the sentences, apply a score for the sentences, order the sentences and then generate the summary
+        - 
+    -
+
+Luhn Algorithm
+
+Cosine Similarity
+
+Libraries
