@@ -37,7 +37,25 @@ Libraries
                                                     MASTER NLP USING CASE STUDIES
 --------------------------------------------------------------------------------------------------------------------------------------------------
 Introduction
-    - 
+    - Introduction to NLP
+        - Natural Language Processing
+        - Used for text Analysis
+        - Multiple uses such as Social Media Analysis for sentiment, Applications for various institutions such as bank loans, university places etc
+        - Used to enhance security by monitoring certain channels 
+    - Text Data
+        - https://en.wikipedia.org/wiki/Natural_language_processing
+        - Processing text aka Lexical Processing
+            - An email containing the words lottery, prize, luck
+            - This may be classified as spam
+        - Parsing aka Syntactic Processing
+        - Meaning aka Semantic Processing
+    - Text Encoding
+        - 
+    - Regular Expressions
+        - Also known as regex, used for multiple purposes such as extraction and replacement
+        - Proficiency with regex is a must for text analyst positions !!
+        - A regex is a pattern used to find similar patterns in a large text or group of texts
+        - The regex library in python is called re and will need to be imported prior to use
 
 Introduction to Lexical Processing
     -
@@ -57,3 +75,12 @@ Classification Vector Spaces in NLP
 Probablistic Models in NLP
 
 Sequence Models in NLP
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+                                                    TROUBLESHOOTING
+--------------------------------------------------------------------------------------------------------------------------------------------------
+Running Notebooks
+    - Need to use a python kernel when using python language
+    - Although there maybe a python kerenel listed it maybe necessary to choose the same option anyway as the notebook may not see the default kernel choice
